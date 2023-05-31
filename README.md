@@ -1,11 +1,11 @@
 ### CFwarp For script related instructions, please check [Yong Ge Blog](https://ygkkk.blogspot.com/2022/09/cfwarp-script.html)
 ### For relevant instructions and points of attention, please refer to [warp series video instructions](https://www.youtube.com/playlist?list=PLMgly2AulGG-WqPXPkHlqWVSfQ3XjHNw8)
 ------------------------------------------------------------------------------------------------------------------------------
-#### vps一键脚本：
+#### vps one key script :
 ```
 bash <(wget -qO- https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh 2> /dev/null)
 ```
-或者
+or
 ```
 bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
 ```
